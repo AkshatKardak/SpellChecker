@@ -1,4 +1,4 @@
-## 📝 Spell Checker App using Python
+## Spell Checker App using Python
 
 A simple desktop-based Spell Checker built using Python, Tkinter, and the pyspellchecker library. It detects spelling mistakes in a given text and suggests corrections, all within an easy-to-use graphical interface.
 
